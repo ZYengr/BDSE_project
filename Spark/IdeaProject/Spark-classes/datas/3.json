@@ -1,0 +1,8 @@
+{
+  "RestaurantsGoodForGroups": "True",
+  "GoodForKids": "True",
+  "HasTV": "True",
+  "RestaurantsTakeOut": "True",
+  "RestaurantsPriceRange2": "2",
+  "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}"
+}
